@@ -1,4 +1,4 @@
-# Wear_guard
+# Safe_Link
 
 This project is a **wearable monitoring and alerting system** for dementia patients.
 The system integrates **ESP32-based IoT sensors** with a **real-time frontend dashboard** to track vital signs, detect falls, and provide geofencing alerts for patient safety.
