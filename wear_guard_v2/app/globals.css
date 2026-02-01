@@ -1,0 +1,45 @@
+@import "tailwindcss";
+@import "leaflet/dist/leaflet.css";
+
+/* Default Light Theme */
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+
+  /* Optional font fallbacks for safety */
+  --font-sans: 'Arial', 'Helvetica', sans-serif;
+  --font-mono: 'Courier New', monospace;
+}
+
+/* Tailwind Theme Variables Override (Optional if using Tailwind custom theme) */
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-sans);
+  --font-mono: var(--font-mono);
+}
+
+/* Dark Mode Preference */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+/* Global Body Styling */
+body {
+  background-color: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans);
+  margin: 0;
+  padding: 0;
+  line-height: 1.5;
+}
+
+/* Ensure Leaflet controls render correctly */
+.leaflet-container {
+  height: 100%;
+  width: 100%;
+  z-index: 0;
+}
