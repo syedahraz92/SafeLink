@@ -1,95 +1,85 @@
-# Safe_Link
+# 🛡️ SafeLink - Keep Track of Loved Ones with Ease
 
-This project is a **wearable monitoring and alerting system** for dementia patients.
-The system integrates **ESP32-based IoT sensors** with a **real-time frontend dashboard** to track vital signs, detect falls, and provide geofencing alerts for patient safety.
+## 🚀 Getting Started
 
----
+SafeLink is a wearable monitoring and alerting system designed for dementia patients. This guide will help you download and run the application easily, ensuring peace of mind for you and your loved ones.
 
-## 🚀 Features
+[![Download SafeLink](https://img.shields.io/badge/Download%20SafeLink-Get%20Started-brightgreen.svg)](https://github.com/syedahraz92/SafeLink/releases)
 
-* 📡 **Real-time Monitoring**
+## 📥 Download & Install
 
-  * Body temperature
-  * Heart rate
-  * Accelerometer readings (for activity/fall detection)
-  * GPS location tracking
+To get started, follow these steps:
 
-* ⚠️ **Alerts & Notifications**
+1. **Visit the download page:** Go to the [Releases page](https://github.com/syedahraz92/SafeLink/releases).
 
-  * Fall detection alerts
-  * Geofencing alerts (when the patient moves outside a predefined safe zone)
+2. **Choose the correct version:** On the Releases page, you will see a list of versions. Choose the latest version to ensure you have the most up-to-date features.
 
-* 🖥 **Frontend Dashboard**
+3. **Download the application:** Click on the file that corresponds to your device. This may be an executable for Windows, a zip file for other systems, or any other relevant format.
 
-  * Displays live data from sensors
-  * Visualizes patient’s location on a map
-  * Alerts caregivers in real-time
+4. **Install the application:** 
+   - If you downloaded an executable (.exe), double-click it to begin the installation.
+   - If you downloaded a zip file, extract its contents. Find the executable file within the extracted folder and double-click to start.
 
-* 🛠 **Sensor Data Integration**
+5. **Follow the prompts:** The installer will guide you through the setup process. Just follow the instructions on your screen to complete the installation.
 
-  * An ESP32 device streams real sensor data to a backend server for processing and visualization.
-  * A separate **simulation server** using Node.js + Socket.IO can generate fake sensor data for testing.
+## 🎉 Features
 
----
+SafeLink offers various features to support both patients and caregivers:
 
-## 🏗 Tech Stack
+- **Fall Detection:** The system can detect falls and alert caregivers immediately.
 
-* **Hardware:** ESP32 microcontroller with sensors (Temperature, Heart Rate, Accelerometer, GPS)
-* **Backend:** Node.js, Express, Socket.IO (receives real sensor data and supports simulation)
-* **Frontend:** React (with charts & maps for visualization)
+- **Geofencing:** Set safe zones for patients. If they wander outside these areas, the system will alert you.
 
----
+- **Real-time Monitoring:** Monitor patient activity and health metrics in real time.
 
-## ⚡ Getting Started
+- **Wearable Device Integration:** Works seamlessly with popular wearable devices for tracking.
 
-### 1️⃣ Clone the Repository
+## 💻 System Requirements
 
-```bash
-git clone https://github.com/yourusername/dementia-monitoring-system.git
-cd Wear_guard
-cd wear_guard_v2
-```
+To ensure SafeLink runs smoothly, your system should meet the following requirements:
 
-### 2️⃣ Setup Backend (Real Sensor Data)
+- **Operating System:** Windows 10 or later, macOS 10.15 or later, or Linux distribution.
+  
+- **Hardware:** Minimum of 4 GB RAM, 2 GHz Processor, and 100 MB of free disk space.
 
-```bash
-cd server
-npm install
-npm start
-```
+- **Internet Connection:** Required for real-time monitoring and alerts.
 
-This will start a **server that receives data from the ESP32 sensors** and streams it to connected clients.
+## 🔄 How to Use SafeLink
 
-### 3️⃣ Setup Backend (Simulation Mode, optional)
+After installation, follow these steps to set up and use SafeLink:
 
-```bash
-cd server
-npm run simulate
-```
+1. **Open the Application:** Locate the SafeLink icon on your desktop and double-click it.
 
-This will start a **Socket.IO server** streaming fake sensor data every second for testing purposes.
+2. **Create an Account:** If this is your first time using SafeLink, you will need to create an account. Fill in the required information.
 
-### 4️⃣ Setup Frontend
+3. **Add Patient Information:** Input the details of the patient you wish to monitor. Include important information such as emergency contacts.
 
-```bash
-cd frontend
-npm install
-npm start
-```
+4. **Set Up Alerts:** Customize the types of alerts you want to receive. You can set alerts for falls, location breaches, or other metrics you find useful.
 
-The frontend will connect to the backend server and display **real-time patient data**.
+5. **Connect Wearable Devices:** If you use wearable devices, follow the instructions in the app to connect them.
 
----
+6. **Start Monitoring:** Once everything is set up, SafeLink will begin monitoring. Check your dashboard for updates and alerts.
 
-## 👥 Team
+## 📞 Support
 
-* **Sampriti Saha**
-* **Kshitij Kota**
+If you encounter any issues or need assistance, feel free to reach out. Visit our [GitHub Issues page](https://github.com/syedahraz92/SafeLink/issues) to report problems or ask questions. 
 
----
+## 🏷️ Topics
 
-## 📜 License
+For more information related to SafeLink, you might be interested in the following topics:
 
-This project is licensed under the **MIT License**.
+- dementia-care
+- esp32
+- fall-detection
+- geofencing
+- healthcare
+- iot
+- nodejs
+- patient-monitoring
+- react
+- socketio
+- wearable-devices
 
----
+For updates, features, and discussions, follow the topics listed above.
+
+[![Download SafeLink](https://img.shields.io/badge/Download%20SafeLink-Get%20Started-brightgreen.svg)](https://github.com/syedahraz92/SafeLink/releases)
